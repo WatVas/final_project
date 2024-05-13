@@ -1,3 +1,4 @@
+# Юрий Шестаков, 16-я когорта — Финальный проект. Инженер по тестированию плюс
 import data
 from sendor_stand_request import create_order, get_order
 
